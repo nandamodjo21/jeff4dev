@@ -1,1 +1,0 @@
-import{h as r,c as o,o as s,a as e}from"./index-DotosmgG.js";const a={},l={class:"z-10 text-primary border-t-1 border-t-primary bg-white"};function c(n,t){return s(),o("footer",l,t[0]||(t[0]=[e("div",{class:"p-8 flex justify-between"},[e("div",{class:"text-3xl font-bold flex"},"LOGO"),e("p",null,"All right reserved.")],-1)]))}const f=r(a,[["render",c]]);export{f as default};
