@@ -16,7 +16,13 @@ const Experience = ref([
     id: 3,
     title: 'Backend Developer',
     company: 'NVIDIA Corporation',
-    duration : 'Aug 2022 - now'
+    duration : 'Aug 2022 - Aug 2024'
+  },
+  {
+    id: 4,
+    title: 'AI Engineer',
+    company: 'Apple Inc.',
+    duration : 'Des 2024 - Now'
   }
 ])
 </script>
